@@ -2,6 +2,6 @@
 
 _by Austin Poor_
 
-An implementation of the Sieve of Eratosthenes in MIPS for Computer Organization course at SLC. 
+An implementation of the Sieve of Eratosthenes in MIPS for Computer Organization course at SLC (based on the provided starter code). 
 
 
